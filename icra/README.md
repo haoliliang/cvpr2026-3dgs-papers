@@ -12,7 +12,7 @@ A curated list of ICRA 2026 papers related to **3D / 4D Gaussian Splatting**.
 
 ## Papers
 
-### [1] ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs
+### [1] ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving via Multi-modal Joint Learning
 - **Authors:** Qi Song, Chenghong Li, Haotong Lin, Sida Peng, Rui Huang
 - **Affiliations:** SSE, CUHKSZ · Zhejiang University
 - **arXiv:** [2504.00437](https://arxiv.org/abs/2504.00437)
@@ -68,7 +68,7 @@ A curated list of ICRA 2026 papers related to **3D / 4D Gaussian Splatting**.
 - **Code:** TBA / not found
 - **Status:** Accepted to ICRA 2026
 
-### [8] Observer Actor: Active Vision Imitation Learning with Sparse View Gaussian Splatting
+### [8] Observer-Actor: Active Vision Imitation Learning with Sparse-View Gaussian Splatting
 - **Authors:** Yilong Wang, Cheng Qian, Ruomeng Fan, Edward Johns
 - **Affiliations:** Imperial College London
 - **arXiv:** [2511.18140](https://arxiv.org/abs/2511.18140)

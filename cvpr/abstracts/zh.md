@@ -1,23 +1,23 @@
 # CVPR 2026 3DGS 论文中文摘要
 
-点击下方条目可查看**单篇**中文摘要。也可从 [CVPR README](../README.md) 各论文条目中的「中文摘要」链接进入。
+点击下方条目可查看**单篇**中文摘要。也可从 [CVPR README](../README.md) 进入。
 
-> 翻译仅供阅读参考；如有出入请以原文为准。
+> 翻译严格对应各篇 arXiv 英文摘要；标题采用 arXiv 当前官方题名。
 
 ---
 
-- [001. Bundle Adjusted Gaussian Avatars Deblurring](001.md)
+- [001. Motion-Aware Animatable Gaussian Avatars Deblurring](001.md)
 - [002. Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields](002.md)
-- [003. TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting](003.md)
-- [004. Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects](004.md)
-- [005. Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes](005.md)
+- [003. Test-Time 3D Occupancy Prediction](003.md)
+- [004. Let it Snow! Animating 3D Gaussian Scenes with Dynamic Weather Effects via Physics-Guided Score Distillation](004.md)
+- [005. SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping](005.md)
 - [006. BulletGen: Improving 4D Reconstruction with Bullet-Time Generation](006.md)
 - [007. HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars](007.md)
 - [008. MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second](008.md)
 - [009. iLRM: An Iterative Large 3D Reconstruction Model](009.md)
 - [010. Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images](010.md)
 - [011. PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis](011.md)
-- [012. Polysemous Language Gaussian Splatting via Matching-based Mask Lifting](012.md)
+- [012. ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting](012.md)
 - [013. LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates](013.md)
 - [014. REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting](014.md)
 - [015. Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models](015.md)
@@ -34,7 +34,7 @@
 - [026. GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](026.md)
 - [027. ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking](027.md)
 - [028. Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](028.md)
-- [029. B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates](029.md)
+- [029. B3-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates](029.md)
 - [030. RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing](030.md)
 - [031. tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](031.md)
 - [032. RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction](032.md)

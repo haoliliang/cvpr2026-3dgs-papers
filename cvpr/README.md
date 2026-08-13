@@ -14,7 +14,7 @@ A curated list of CVPR 2026 papers related to **3D / 4D Gaussian Splatting**.
 
 ## Papers
 
-### [1] Bundle Adjusted Gaussian Avatars Deblurring
+### [1] Motion-Aware Animatable Gaussian Avatars Deblurring
 - **Authors:** Muyao Niu, Yifan Zhan, Qingtian Zhu, Zhuoxiao Li, Wei Wang, Zhihang Zhong, Xiao Sun, Yinqiang Zheng
 - **Affiliations:** Shanghai Artificial Intelligence Laboratory · The University of Tokyo
 - **arXiv:** [2411.16758](https://arxiv.org/abs/2411.16758)
@@ -30,7 +30,7 @@ A curated list of CVPR 2026 papers related to **3D / 4D Gaussian Splatting**.
 - **Code:** [inspirelt/Turbo-GS](https://github.com/inspirelt/Turbo-GS)
 - **Status:** Accepted to CVPR 2026
 
-### [3] TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting
+### [3] Test-Time 3D Occupancy Prediction
 - **Authors:** Fengyi Zhang, Huitong Yang, Zheng Zhang, Zi Huang, Yadan Luo
 - **Affiliations:** The University of Queensland, Australia · Harbin Institute of Technology
 - **arXiv:** [2503.08485](https://arxiv.org/abs/2503.08485)
@@ -38,7 +38,7 @@ A curated list of CVPR 2026 papers related to **3D / 4D Gaussian Splatting**.
 - **Code:** [Xian-Bei/TT-Occ](https://github.com/Xian-Bei/TT-Occ)
 - **Status:** Accepted to CVPR 2026
 
-### [4] Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects
+### [4] Let it Snow! Animating 3D Gaussian Scenes with Dynamic Weather Effects via Physics-Guided Score Distillation
 - **Authors:** Gal Fiebelman, Hadar Averbuch-Elor, Sagie Benaim
 - **Affiliations:** The Hebrew University of Jerusalem · Cornell University
 - **arXiv:** [2504.05296](https://arxiv.org/abs/2504.05296)
@@ -46,7 +46,7 @@ A curated list of CVPR 2026 papers related to **3D / 4D Gaussian Splatting**.
 - **Code:** TBA / not found
 - **Status:** Accepted to CVPR 2026
 
-### [5] Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes
+### [5] SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping
 - **Authors:** Allen Tu, Haiyang Ying, Alex Hanson, Yonghan Lee, Tom Goldstein, Matthias Zwicker
 - **Affiliations:** University of Maryland, College Park
 - **arXiv:** [2506.07917](https://arxiv.org/abs/2506.07917)
@@ -102,7 +102,7 @@ A curated list of CVPR 2026 papers related to **3D / 4D Gaussian Splatting**.
 - **Code:** [Hihixiaolv/PhysGM](https://github.com/Hihixiaolv/PhysGM)
 - **Status:** Accepted to CVPR 2026
 
-### [12] Polysemous Language Gaussian Splatting via Matching-based Mask Lifting
+### [12] ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting
 - **Authors:** Jiayu Ding, Xinpeng Liu, Zhiyi Pan, Shiqiang Long, Ge Li
 - **Affiliations:** Peking University · Tianjin University · Guangdong Bohua UHD Innovation Center Co., Ltd.
 - **arXiv:** [2509.22225](https://arxiv.org/abs/2509.22225)
@@ -238,7 +238,7 @@ A curated list of CVPR 2026 papers related to **3D / 4D Gaussian Splatting**.
 - **Code:** TBA / not found
 - **Status:** Accepted to CVPR 2026
 
-### [29] B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates
+### [29] B3-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates
 - **Authors:** Hiromichi Kamata, Samuel Arthur Munro, Fuminori Homma
 - **Affiliations:** Sony Group Corporation · Pixomondo
 - **arXiv:** [2602.17134](https://arxiv.org/abs/2602.17134)
